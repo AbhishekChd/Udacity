@@ -48,6 +48,13 @@ support hundreds of thousands of users.
      * Staying in Sync with a remote project
   5. [Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206) | **1 day**
      * Staring out
+  6. [Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803) | **2 weeks**
+  7. [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256) | **2 weeks**
+     * From ping to HTTP
+     * Names and Addresses
+     * Addressing and Networks
+     * Protocol Layers
+     * Big Networks
      
 ### B. Intermediate
   1. [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) | **2 weeks**
