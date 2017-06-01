@@ -27,7 +27,7 @@ databases to persistently store data.
 You’ll learn to build applications that can support any front-end, and scale to
 support hundreds of thousands of users.
 
-A. Beginner
+### A. Beginner
   1. [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) | **6 weeks**
      * Introduction
      * Using Functions
@@ -49,7 +49,7 @@ A. Beginner
   5. [Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206) | **1 day**
      * Staring out
      
-B. Intermediate
+### B. Intermediate
   1. [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) | **2 weeks**
      * Why Responsive
      * Starting Small
@@ -97,7 +97,7 @@ B. Intermediate
      * Securing your API
      * Writing Developer-friendly API
      
-C. Advanced
+### C. Advanced
   1. [Developing Scalable Apps in Python](https://www.udacity.com/course/developing-scalable-apps-in-python--ud858) | **6 weeks**
      * Scalabilty Basics
      * Getting Started
