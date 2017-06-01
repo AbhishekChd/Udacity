@@ -28,81 +28,81 @@ You’ll learn to build applications that can support any front-end, and scale t
 support hundreds of thousands of users.
 
 A. Beginner
-  1. [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) **6 weeks**
+  1. [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) | **6 weeks**
      * Introduction
      * Using Functions
      * Using Classes
      * Making Classes
      * Final Project
-  2. [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304) **3 weeks**
+  2. [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304) | **3 weeks**
      * From Design to Code
      * Your own Framework
      * Learning and Using Bootstrap
-  3. [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595) **1 week**
+  3. [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595) | **1 week**
      * Get into the Shell
      * Shell commands
      * The Linux FileSystem
-  4. [GitHub and Collaboration](https://www.udacity.com/course/github-collaboration--ud456) **3 weeks**
+  4. [GitHub and Collaboration](https://www.udacity.com/course/github-collaboration--ud456) | **3 weeks**
      * Working with Remotes
      * Working on another Dev's Repository
      * Staying in Sync with a remote project
-  5. [Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206) **1 day**
+  5. [Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206) | **1 day**
      * Staring out
 B. Intermediate
-  1. [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) **2 weeks**
+  1. [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) | **2 weeks**
      * Why Responsive
      * Starting Small
      * Building Up
      * Cmmon Responsive Patterns
      * Optimizations
-  2. [Responsive Images](https://www.udacity.com/course/responsive-images--ud882) **2 weeks**
+  2. [Responsive Images](https://www.udacity.com/course/responsive-images--ud882) | **2 weeks**
      * Getting Up and Running
      * Units, Formats, Environments
      * Images with Markup
      * Full Responsiveness
-  3. [Intro to Backend](https://www.udacity.com/course/intro-to-backend--ud171) **3 weeks**
+  3. [Intro to Backend](https://www.udacity.com/course/intro-to-backend--ud171) | **3 weeks**
      * Forms and Inputs
      * Templates
      * Databases
      * User Accounts & Security
-  4. [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197) **4 weeks**
+  4. [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197) | **4 weeks**
      * Data and Tables
      * Elements of SQL
      * Python DB-API
      * Deeper into SQL
-  5. [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088) **3 weeks**
+  5. [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088) | **3 weeks**
      * Working with CRUD
      * Making a Web Server
      * Developing with Frameworks
      * Iterative Development
-  6. [Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330) **2 weeks**
+  6. [Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330) | **2 weeks**
      * Authentication vs. Authorization
      * Creating a Google+ Sign-In
      * Local Permission Systems
      * Adding Facebook & Other Providers
-  7. [JavaScript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989) **6 weeks**
+  7. [JavaScript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989) | **6 weeks**
       * Changing Expectations
       * Refactoring
       * Using an Organizational Library
       * Exploring Unfamiliar Code
-  8. [HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303) **1 week**
+  8. [HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303) | **1 week**
      * Requests and Responses
      * The Web from Pyhton
      * HTTP in the real world
-  9. [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388) **3 weeks**
+  9. [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388) | **3 weeks**
      * What's and Why's of APIs
      * Accesing Published APIs
      * Creating your own API Endpoints
      * Securing your API
      * Writing Developer-friendly API
 C. Advanced
-  1. [Developing Scalable Apps in Python](https://www.udacity.com/course/developing-scalable-apps-in-python--ud858) **6 weeks**
+  1. [Developing Scalable Apps in Python](https://www.udacity.com/course/developing-scalable-apps-in-python--ud858) | **6 weeks**
      * Scalabilty Basics
      * Getting Started
      * Storing and Retrieving Data
      * Advanced Datastore Concepts
      * Advanced App Engine Topics
-  2. [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299) **1 week**
+  2. [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299) | **1 week**
      * Into to Linux
      * Linux Security
      * Web Application Servers
