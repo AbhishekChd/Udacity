@@ -81,16 +81,11 @@ support hundreds of thousands of users.
      * Creating a Google+ Sign-In
      * Local Permission Systems
      * Adding Facebook & Other Providers
-  7. [JavaScript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989) | **6 weeks**
-      * Changing Expectations
-      * Refactoring
-      * Using an Organizational Library
-      * Exploring Unfamiliar Code
-  8. [HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303) | **1 week**
+  7. [HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303) | **1 week**
      * Requests and Responses
      * The Web from Pyhton
      * HTTP in the real world
-  9. [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388) | **3 weeks**
+  8. [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388) | **3 weeks**
      * What's and Why's of APIs
      * Accesing Published APIs
      * Creating your own API Endpoints
@@ -108,7 +103,33 @@ support hundreds of thousands of users.
      * Into to Linux
      * Linux Security
      * Web Application Servers
-     
+  3. [Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897) | **5 week**
+     * HTTP’s Request Response Cycle
+     * HTTP/1
+     * HTTPS
+     * HTTPS/2
+     * Security
+  4. [Front End Frameworks](https://www.udacity.com/course/front-end-frameworks--ud894) | **8 week**
+     * Building a Single Page Application
+     * Examine A Framework's Source.
+     * Angular
+     * Ember
+  5. [Web Accessibilty](https://www.udacity.com/course/web-accessibility--ud891) | **2 week**
+     * Overview
+     * Focus
+     * Semantics Basics
+     * Semantics Extras
+     * Semantics - ARIA
+     * Style
+  6. [JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898) | **3 weeks**
+     * Creating Promises
+     * Chaining Promises
+  7. [JavaScript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989) | **6 weeks**
+     * Changing Expectations
+     * Refactoring
+     * Using an Organizational Library
+     * Exploring Unfamiliar Code
+
 
 ---
 
