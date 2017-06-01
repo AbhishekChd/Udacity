@@ -48,6 +48,7 @@ A. Beginner
      * Staying in Sync with a remote project
   5. [Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206) | **1 day**
      * Staring out
+     
 B. Intermediate
   1. [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) | **2 weeks**
      * Why Responsive
@@ -95,6 +96,7 @@ B. Intermediate
      * Creating your own API Endpoints
      * Securing your API
      * Writing Developer-friendly API
+     
 C. Advanced
   1. [Developing Scalable Apps in Python](https://www.udacity.com/course/developing-scalable-apps-in-python--ud858) | **6 weeks**
      * Scalabilty Basics
