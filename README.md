@@ -54,8 +54,7 @@ support hundreds of thousands of users.
      * Names and Addresses
      * Addressing and Networks
      * Protocol Layers
-     * Big Networks
-     
+     * Big Networks   
 ### B. Intermediate
   1. [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) | **2 weeks**
      * Why Responsive
@@ -98,7 +97,12 @@ support hundreds of thousands of users.
      * Creating your own API Endpoints
      * Securing your API
      * Writing Developer-friendly API
-     
+  9. [Intro to jQuery](https://www.udacity.com/course/intro-to-jquery--ud245) | **2 days**
+  10. [Deploying Applications with Heroku](https://www.udacity.com/course/deploying-applications-with-heroku--ud272) | **1 week**
+  11. [Building High Conversion Web Forms](https://www.udacity.com/course/building-high-conversion-web-forms--ud890) | **2 weeks**
+  12. [Dynamic Web Applications with Sinatra, Ruby Web Development Fundamentals](https://www.udacity.com/course/dynamic-web-applications-with-sinatra--ud268) | **2 weeks**
+  13. [The MVC Pattern in Ruby](https://www.udacity.com/course/the-mvc-pattern-in-ruby--ud270) | **1 week**
+  14. [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899) | **3 weeks**
 ### C. Advanced
   1. [Developing Scalable Apps in Python](https://www.udacity.com/course/developing-scalable-apps-in-python--ud858) | **6 weeks**
      * Scalabilty Basics
